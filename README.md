@@ -43,9 +43,11 @@ spotify-clone/
 2. Open `index.html` in your web browser
 3. Explore the interface and interact with the elements
 
-## Screenshots
+## Screenshot
 
-[Add screenshots of your project here]
+![image](https://github.com/user-attachments/assets/f9fe87de-796d-4e57-b5c2-5318ba304be7)
+
+
 
 ## Future Improvements
 
